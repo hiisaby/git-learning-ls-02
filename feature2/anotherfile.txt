@@ -1,1 +1,3 @@
 this file was added in feature2 branh local
+
+another added in local feature2 branch
